@@ -1,13 +1,10 @@
 Project Title: Interactive Sales Performance Dashboard
 
 Project Overview
-Business Problem: Organizations often struggle to track sales performance across multiple product categories, states,
-                  customers, and time periods. Raw sales data makes it difficult for management to identify top-performing products, 
-                  profitable customer segments, regional trends, and seasonal sales patterns.
+Business Problem: Organizations often struggle to track sales performance across multiple product categories, states, customers, and time periods. 
+Raw sales data makes it difficult for management to identify top-performing products, profitable customer segments, regional trends, and seasonal sales patterns.
 
-Business Solution: This interactive Excel Sales Dashboard consolidates sales data into a single visual reporting interface.
-                   Using Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques, the dashboard enables stakeholders
-                   to monitor sales performance, profitability, customer contributions, and geographic trends for faster and data-driven decision-making.
+Business Solution: This interactive Excel Sales Dashboard consolidates sales data into a single visual reporting interface. Using Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques, the dashboard enables stakeholders to monitor sales performance, profitability, customer contributions, and geographic trends for faster and data-driven decision-making.
 
 3. Features
 ✅ Interactive Category Filter (Furniture, Office Supplies, Technology)
