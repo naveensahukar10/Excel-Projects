@@ -9,16 +9,16 @@ Raw sales data makes it difficult for management to identify top-performing prod
 Business Solution: This interactive Excel Sales Dashboard consolidates sales data into a single visual reporting interface. Using Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques, the dashboard enables stakeholders to monitor sales performance, profitability, customer contributions, and geographic trends for faster and data-driven decision-making.
 
 ## Features
-✅ Interactive Category Filter (Furniture, Office Supplies, Technology)
-✅ Dynamic Year-wise Analysis (2020–2023)
-✅ Sales by Product Category Visualization
-✅ Profit Trend Analysis Over Time
-✅ State-wise Sales Performance Map
-✅ Customer Count Tracking
-✅ Top 5 Customers Profit Contribution Analysis
-✅ Monthly Sales Trend Monitoring
-✅ User-Friendly Dashboard Layout with Slicers
-✅ Real-Time Data Exploration and Filtering
+- Interactive Category Filter (Furniture, Office Supplies, Technology)
+- Dynamic Year-wise Analysis (2020–2023)
+- Sales by Product Category Visualization
+- Profit Trend Analysis Over Time
+- State-wise Sales Performance Map
+- Customer Count Tracking
+- Top 5 Customers Profit Contribution Analysis
+- Monthly Sales Trend Monitoring
+- User-Friendly Dashboard Layout with Slicers
+- Real-Time Data Exploration and Filtering
 
 ## Tools Used
 - Excel Skills,
